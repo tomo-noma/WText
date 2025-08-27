@@ -6,16 +6,14 @@
 
 - Tauri2.0を採用した、Web技術ベースのテキストエディター
 
-## 使用技術
+## 利用技術
 
-![Static Badge](https://img.shields.io/badge/NODE.JS-black?logo=nodedotjs)
-![Static Badge](https://img.shields.io/badge/PNPM-black?logo=pnpm)
-![Static Badge](https://img.shields.io/badge/TAURI_2.0-black?logo=tauri)
-![Static Badge](https://img.shields.io/badge/VITE-black?logo=vite)
-![Static Badge](https://img.shields.io/badge/RUST-black?logo=rust)
-![Static Badge](https://img.shields.io/badge/TYPESCRIPT-black?logo=typescript)
-![Static Badge](https://img.shields.io/badge/HTML-black?logo=html5)
-![Static Badge](https://img.shields.io/badge/CSS-black?logo=css)
+![Static Badge](https://img.shields.io/badge/24.6.0-green?style=plastic&logo=nodedotjs&label=Node.js)
+![Static Badge](https://img.shields.io/badge/10.15.0-green?style=plastic&logo=pnpm&label=PNPM)
+![Static Badge](https://img.shields.io/badge/2.8.3-green?style=plastic&logo=tauri&label=Tauri)
+![Static Badge](https://img.shields.io/badge/6.3.5-green?style=plastic&logo=vite&label=Vite)
+![Static Badge](https://img.shields.io/badge/1.89.0-green?style=plastic&logo=rust&label=Rust)
+![Static Badge](https://img.shields.io/badge/5.6.3-green?style=plastic&logo=typescript&label=TypeScript)
 
 ## 推奨IDE環境
 
