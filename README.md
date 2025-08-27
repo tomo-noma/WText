@@ -1,14 +1,15 @@
 # Wtext
 
-シンプルなテキストエディタ
+シンプルなテキストエディター
 
 ## 特徴
 
-- Tauri2.0を採用
+- Tauri2.0を採用した、Web技術ベースのテキストエディター
 
 ## 使用技術
 
 ![Static Badge](https://img.shields.io/badge/NODE.JS-black?logo=nodedotjs)
+![Static Badge](https://img.shields.io/badge/PNPM-black?logo=pnpm)
 ![Static Badge](https://img.shields.io/badge/TAURI_2.0-black?logo=tauri)
 ![Static Badge](https://img.shields.io/badge/VITE-black?logo=vite)
 ![Static Badge](https://img.shields.io/badge/RUST-black?logo=rust)
